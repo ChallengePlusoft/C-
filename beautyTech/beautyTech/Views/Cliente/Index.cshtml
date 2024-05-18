@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!--Declaração do modelo de dados que será utilizado naquela view específica.-->
+@model List<Cliente>
+
+<!-- Cabeçalho da página -->
+<h2>Clientes</h2>
+
+<!-- Tabela para exibir a lista de clientes -->
+<table class="table">
+    <thead>
+        <!-- Cabeçalho da tabela com colunas -->
+        <tr>
+            <th>ID</th>
+            <th>NOME</th>
+            <th>CPF</th>
+            <th>E-MAIL</th>
+            <th>DATA DE NASCIMENTO</th>
+            <th>ESTADO CIVIL</th>
+            <th>AÇÕES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop através da lista de clientes para exibir cada um -->
+        @foreach (var cliente in Model)
+        {
+            <!-- Uma linha para cada cliente -->
+            <tr>
+                <!-- Coluna para o ID do cliente -->
+                <td>@cliente.ID_CLIENTE</td>
+
+                <!-- Coluna para o nome do cliente -->
+                <td>@cliente.NM_CLIENTE</td>
+
+                <!-- Coluna para o CPF do cliente -->
+                <td>@cliente.CPF_CLIENTE</td>
+
+                <!-- Coluna para o e-mail do cliente -->
+                <td>@cliente.EMAIL_CLIENTE</td>
+
+                <!-- Coluna para a data de nascimento do cliente -->
+                <td>@cliente.DT_NASCIMENTO_CLIENTE.ToShortDateString()</td>
+
+                <!-- Coluna para o estado civil do cliente -->
+                <td>@cliente.ESTADO_CIVIL_CLIENTE</td>
+
+                <!-- Coluna para os links de edição e exclusão do cliente -->
+                <td>
+                    <a asp-controller="Cliente" asp-action="Edit" asp-route-ID="@cliente.ID_CLIENTE">Editar</a>
+                    <a asp-controller="Cliente" asp-action="Delete" asp-route-ID="@cliente.ID_CLIENTE">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Link para adicionar um novo cliente -->
+<a asp-controller="Cliente" asp-action="Create">Novo Cliente</a>

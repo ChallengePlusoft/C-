@@ -1,0 +1,62 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!--Declaração do modelo de dados que será utilizado naquela view específica.-->
+@model List<Produto>
+
+<!-- Cabeçalho da página -->
+<h2>Produtos</h2>
+
+<!-- Tabela para exibir a lista de produtos -->
+<table class="table">
+    <thead>
+        <!-- Cabeçalho da tabela com colunas -->
+        <tr>
+            <th>ID</th>
+            <th>NOME</th>
+            <th>DESCRIÇÃO</th>
+            <th>VALOR</th>
+            <th>DATA DE FABRICAÇÃO</th>
+            <th>DATA DE VALIDADE</th>
+            <th>DATA DE CADASTRO</th>
+            <th>AÇÕES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop através da lista de produtos para exibir cada um -->
+        @foreach (var produto in Model)
+        {
+        
+            <tr>
+             
+                <td>@produto.ID_PRODUTO</td>
+          
+                <td>@produto.NM_PRODUTO</td>
+
+                <td>@produto.DESC_PRODUTO</td>
+
+                <td>@produto.VL_PRODUTO.ToString("C")</td>
+
+                <td>@produto.DT_FAB_PRODUTO</td>
+
+                <td>@produto.DT_VALIDADE</td>
+
+                <td>@produto.DT_CADASTRO</td>
+
+                <!-- Coluna para o link de edição do produto -->
+                <td>
+                    <a asp-controller="Produto" asp-action="Edit" asp-route-ID="@produto.ID_PRODUTO">Editar</a>
+
+                    <!-- Coluna para os links de exclusão do produto -->
+
+                    <a asp-controller="Produto" asp-action="Delete" asp-route-ID="@produto.ID_PRODUTO">Excluir</a>
+                </td>
+
+
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-controller="Produto" asp-action="Create">Novo Produto</a>

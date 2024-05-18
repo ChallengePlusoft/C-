@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Empresa
+
+<h2>Adicionar Empresa</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="NM_EMPRESA">Nome da Empresa:</label>
+        <input asp-for="NM_EMPRESA" class="form-control" />
+        <span asp-validation-for="NM_EMPRESA" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="CNPJ_EMPRESA">Cnpj da Empresa:</label>
+        <input asp-for="CNPJ_EMPRESA" class="form-control" />
+        <span asp-validation-for="CNPJ_EMPRESA" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="DESC_EMPRESA">Descrição da Empresa:</label>
+        <input asp-for="DESC_EMPRESA" class="form-control" />
+        <span asp-validation-for="DESC_EMPRESA" class="text-danger"></span>
+    </div>
+
+   
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Adicionar Empresa</button>
+    </div>
+</form>
+

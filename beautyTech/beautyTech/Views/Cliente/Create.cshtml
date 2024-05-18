@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Cliente
+
+<h2>Adicionar Cliente</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="CPF_CLIENTE">CPF:</label>
+        <input asp-for="CPF_CLIENTE" class="form-control" />
+        <span asp-validation-for="CPF_CLIENTE" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="NM_CLIENTE">Nome:</label>
+        <input asp-for="NM_CLIENTE" class="form-control" />
+        <span asp-validation-for="NM_CLIENTE" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="EMAIL_CLIENTE">E-mail:</label>
+        <input asp-for="EMAIL_CLIENTE" class="form-control" />
+        <span asp-validation-for="EMAIL_CLIENTE" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="DT_NASCIMENTO_CLIENTE">Data de Nascimento:</label>
+        <input asp-for="DT_NASCIMENTO_CLIENTE" class="form-control" type="date" />
+        <span asp-validation-for="DT_NASCIMENTO_CLIENTE" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="ESTADO_CIVIL_CLIENTE">Estado Civil:</label>
+        <input asp-for="ESTADO_CIVIL_CLIENTE" class="form-control" />
+        <span asp-validation-for="ESTADO_CIVIL_CLIENTE" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Adicionar Cliente</button>
+    </div>
+</form>
