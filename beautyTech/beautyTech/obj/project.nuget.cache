@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LLwr30PhCniM4kT7m5KN4IhsG45+jJg+0U/buvxY3ukVZqIyx91A8lOdwnVP05g/DNlY7sY/UIs2c1IZ2piNwQ==",
+  "dgSpecHash": "Tlhen82QZD8=",
   "success": true,
-  "projectFilePath": "D:\\Fiap\\1 SEMESTRE\\CHALLENGE\\beautyTech\\beautyTech\\beautyTech.csproj",
+  "projectFilePath": "C:\\Users\\kauez\\OneDrive\\Área de Trabalho\\C--main\\beautyTech\\beautyTech\\beautyTech.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kauez\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.6\\microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
     "C:\\Users\\kauez\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.6\\microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512",

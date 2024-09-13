@@ -1,0 +1,6 @@
+@beautyTechAPI_HostAddress = http://localhost:5194
+
+GET {{beautyTechAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

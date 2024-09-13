@@ -1509,11 +1509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fiap\\1 SEMESTRE\\CHALLENGE\\beautyTech\\beautyTech\\beautyTech.csproj",
+      "projectUniqueName": "C:\\Users\\kauez\\OneDrive\\Área de Trabalho\\C--main\\beautyTech\\beautyTech\\beautyTech.csproj",
       "projectName": "beautyTech",
-      "projectPath": "D:\\Fiap\\1 SEMESTRE\\CHALLENGE\\beautyTech\\beautyTech\\beautyTech.csproj",
+      "projectPath": "C:\\Users\\kauez\\OneDrive\\Área de Trabalho\\C--main\\beautyTech\\beautyTech\\beautyTech.csproj",
       "packagesPath": "C:\\Users\\kauez\\.nuget\\packages\\",
-      "outputPath": "D:\\Fiap\\1 SEMESTRE\\CHALLENGE\\beautyTech\\beautyTech\\obj\\",
+      "outputPath": "C:\\Users\\kauez\\OneDrive\\Área de Trabalho\\C--main\\beautyTech\\beautyTech\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kauez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1524,6 +1524,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1536,6 +1537,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1566,7 +1572,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
