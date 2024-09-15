@@ -9,87 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = beautyTech
 build_property.RootNamespace = beautyTech
-build_property.ProjectDir = D:\Fiap\1 SEMESTRE\CHALLENGE\beautyTech\beautyTech\
+build_property.ProjectDir = C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTech\beautyTech\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Fiap\1 SEMESTRE\CHALLENGE\beautyTech\beautyTech
+build_property.MSBuildProjectDirectory = C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTech\beautyTech
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Cliente/Create.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Cliente/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Cliente/Delete.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Cliente/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Cliente/Edit.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Cliente/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Cliente/Index.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Empresa/Create.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Empresa/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Empresa/Delete.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Empresa/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Empresa/Edit.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Empresa/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Empresa/Index.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Empresa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Home/Index.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Home/Privacy.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Produto/Create.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Produto/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Produto/Delete.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Produto/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Produto/Edit.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Produto/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Produto/Index.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Produto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Shared/Error.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/_ViewImports.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/_ViewStart.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fiap/1 SEMESTRE/CHALLENGE/beautyTech/beautyTech/Views/Shared/_Layout.cshtml]
+[C:/Users/kauez/OneDrive/Área de Trabalho/C--main/beautyTech/beautyTech/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ewxg4qm7i5

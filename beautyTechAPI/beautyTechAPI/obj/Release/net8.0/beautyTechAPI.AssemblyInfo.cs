@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("beautyTech")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("beautyTechAPI")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb16613c26c9c0ee76fbfa57a5d9f91b13dbb883")]
-[assembly: System.Reflection.AssemblyProductAttribute("beautyTech")]
-[assembly: System.Reflection.AssemblyTitleAttribute("beautyTech")]
+[assembly: System.Reflection.AssemblyProductAttribute("beautyTechAPI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("beautyTechAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

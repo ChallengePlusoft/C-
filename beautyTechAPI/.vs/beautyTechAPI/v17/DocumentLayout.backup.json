@@ -74,8 +74,7 @@
               "RelativeToolTip": "beautyTechAPI\\Controllers\\EmpresasController.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAwG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:54:46.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:54:46.079Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "beautyTechAPI\\Controllers\\ClientesController.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAcwGsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:37:07.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:37:07.692Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "beautyTechAPI\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:26:13.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:26:13.825Z"
             },
             {
               "$type": "Document",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "beautyTechAPI\\Models\\Empresa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:26:11.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:26:11.46Z"
             },
             {
               "$type": "Document",
@@ -126,8 +122,7 @@
               "RelativeToolTip": "beautyTechAPI\\Models\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:26:05.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:26:05.965Z"
             },
             {
               "$type": "Document",
@@ -139,8 +134,7 @@
               "RelativeToolTip": "beautyTechAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:19:08.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:19:08.077Z"
             },
             {
               "$type": "Document",
@@ -152,8 +146,7 @@
               "RelativeToolTip": "beautyTechAPI\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:25:36.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:25:36.452Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "beautyTechAPI\\Models\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:26:17.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:26:17.458Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "beautyTechAPI\\Controllers\\ProdutosController.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAcwG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:59:30.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:59:30.454Z"
             }
           ]
         }
