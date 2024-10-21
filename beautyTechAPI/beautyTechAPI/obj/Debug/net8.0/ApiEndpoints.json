@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "beautyTechAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "beautyTechAPI.Controllers.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "beautyTechAPI.Controllers.BemVindoController",
+    "Method": "GetProtected",
+    "RelativePath": "api/BemVindo/protected",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "beautyTechAPI.Controllers.ClientesController",
     "Method": "GetClientes",
     "RelativePath": "api/Clientes",

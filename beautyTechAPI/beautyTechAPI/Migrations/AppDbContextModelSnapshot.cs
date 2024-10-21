@@ -54,7 +54,7 @@ namespace beautyTechAPI.Migrations
 
                     b.HasKey("ID_CLIENTE");
 
-                    b.ToTable("BT_CLIENTE");
+                    b.ToTable("BT_K_CLIENTE");
                 });
 
             modelBuilder.Entity("beautyTechAPI.Models.Empresa", b =>
@@ -79,7 +79,7 @@ namespace beautyTechAPI.Migrations
 
                     b.HasKey("ID_EMPRESA");
 
-                    b.ToTable("BT_EMPRESA");
+                    b.ToTable("BT_K_EMPRESA");
                 });
 
             modelBuilder.Entity("beautyTechAPI.Models.Produto", b =>
@@ -112,7 +112,7 @@ namespace beautyTechAPI.Migrations
 
                     b.HasKey("ID_PRODUTO");
 
-                    b.ToTable("BT_PRODUTO");
+                    b.ToTable("BT_K_PRODUTO");
                 });
 #pragma warning restore 612, 618
         }

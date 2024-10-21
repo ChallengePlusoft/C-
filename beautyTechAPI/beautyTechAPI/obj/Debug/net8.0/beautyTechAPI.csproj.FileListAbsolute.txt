@@ -110,3 +110,13 @@ C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\ob
 C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\obj\Debug\net8.0\beautyTechAPI.pdb
 C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\obj\Debug\net8.0\beautyTechAPI.genruntimeconfig.cache
 C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\obj\Debug\net8.0\ref\beautyTechAPI.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\obj\Debug\net8.0\beautyTechAPI.sourcelink.json

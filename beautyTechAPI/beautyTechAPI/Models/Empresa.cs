@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace beautyTechAPI.Models
 {
-    [Table("BT_EMPRESA")]
+    [Table("BT_K_EMPRESA")]
     public class Empresa
     {
         [Key]

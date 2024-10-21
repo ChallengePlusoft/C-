@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("beautyTech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb16613c26c9c0ee76fbfa57a5d9f91b13dbb883")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+945cb94f57bc807ea26d9a893048b52873ffe079")]
 [assembly: System.Reflection.AssemblyProductAttribute("beautyTech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("beautyTech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

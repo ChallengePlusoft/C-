@@ -31,6 +31,14 @@ namespace beutyTech.Controllers
         {
             if (ModelState.IsValid)
             {
+                // Obter o último cliente cadastrado
+                var ultimoCliente = _context.Cliente
+                    .OrderByDescending(c => c.ID_CLIENTE)
+                    .FirstOrDefault();
+
+                // Definir o ID_CLIENTE como o último ID mais um, ou 1 se não houver nenhum registro
+                newCliente.ID_CLIENTE = (ultimoCliente?.ID_CLIENTE ?? 0) + 1;
+
                 _context.Cliente.Add(newCliente);
                 _context.SaveChanges();
                 return RedirectToAction("Index");

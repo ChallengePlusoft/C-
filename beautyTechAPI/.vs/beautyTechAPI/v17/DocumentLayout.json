@@ -3,44 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\migrations\\20241021015242_initialcreate8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\migrations\\20241021015242_initialcreate8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\migrations\\20241021013621_initialcreate7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\migrations\\20241021013621_initialcreate7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\beautytechapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\beautytechapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\controllers\\bemvindocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\controllers\\bemvindocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytechapi\\beautytechapi\\migrations\\20240913010944_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907229-3C64-4E94-972D-CE644746E345}|beautyTechAPI\\beautyTechAPI.csproj|solutionrelative:beautytechapi\\migrations\\20240913010944_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,43 +102,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmpresasController.cs",
-              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\EmpresasController.cs",
-              "RelativeDocumentMoniker": "beautyTechAPI\\Controllers\\EmpresasController.cs",
-              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\EmpresasController.cs",
-              "RelativeToolTip": "beautyTechAPI\\Controllers\\EmpresasController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAwG8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20241021013621_InitialCreate7.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Migrations\\20241021013621_InitialCreate7.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Migrations\\20241021013621_InitialCreate7.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Migrations\\20241021013621_InitialCreate7.cs",
+              "RelativeToolTip": "beautyTechAPI\\Migrations\\20241021013621_InitialCreate7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:54:46.079Z"
+              "WhenOpened": "2024-10-21T01:51:36.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "beautyTechAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:51:35.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "beautyTechAPI\\Controllers\\ClientesController.cs",
               "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "beautyTechAPI\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAcwGsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:37:07.692Z"
+              "WhenOpened": "2024-09-12T23:37:07.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "beautyTechAPI\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "beautyTechAPI\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "beautyTechAPI\\Service\\AuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwCMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:26:13.825Z"
+              "WhenOpened": "2024-10-20T22:51:24.157Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
+              "Title": "EmpresasController.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\EmpresasController.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Controllers\\EmpresasController.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\EmpresasController.cs",
+              "RelativeToolTip": "beautyTechAPI\\Controllers\\EmpresasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:54:46.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\Cliente.cs",
+              "RelativeToolTip": "beautyTechAPI\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:26:05.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241021015242_InitialCreate8.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Migrations\\20241021015242_InitialCreate8.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Migrations\\20241021015242_InitialCreate8.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Migrations\\20241021015242_InitialCreate8.cs",
+              "RelativeToolTip": "beautyTechAPI\\Migrations\\20241021015242_InitialCreate8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:52:44.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Empresa.cs",
               "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\Empresa.cs",
               "RelativeDocumentMoniker": "beautyTechAPI\\Models\\Empresa.cs",
@@ -110,31 +201,34 @@
               "RelativeToolTip": "beautyTechAPI\\Models\\Empresa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:26:11.46Z"
+              "WhenOpened": "2024-09-12T23:26:11.46Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "beautyTechAPI\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\Cliente.cs",
-              "RelativeToolTip": "beautyTechAPI\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\Produto.cs",
+              "RelativeToolTip": "beautyTechAPI\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:26:05.965Z"
+              "WhenOpened": "2024-09-12T23:26:17.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Program.cs",
-              "RelativeDocumentMoniker": "beautyTechAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Program.cs",
-              "RelativeToolTip": "beautyTechAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "beautyTechAPI\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:19:08.077Z"
+              "WhenOpened": "2024-09-12T23:59:30.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -146,44 +240,112 @@
               "RelativeToolTip": "beautyTechAPI\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:25:36.452Z"
+              "WhenOpened": "2024-09-12T23:25:36.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "beautyTechAPI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:26:13.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Program.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Program.cs",
+              "RelativeToolTip": "beautyTechAPI\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:19:08.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "beautyTechAPI.http",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\beautyTechAPI.http",
+              "RelativeDocumentMoniker": "beautyTechAPI\\beautyTechAPI.http",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\beautyTechAPI.http",
+              "RelativeToolTip": "beautyTechAPI\\beautyTechAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-19T02:16:38.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BemVindoController.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\BemVindoController.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Controllers\\BemVindoController.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\BemVindoController.cs",
+              "RelativeToolTip": "beautyTechAPI\\Controllers\\BemVindoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:07:51.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\appsettings.json",
               "RelativeDocumentMoniker": "beautyTechAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\appsettings.json",
               "RelativeToolTip": "beautyTechAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-13T01:07:07.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "beautyTechAPI\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Models\\Produto.cs",
-              "RelativeToolTip": "beautyTechAPI\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "beautyTechAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:26:17.458Z"
+              "WhenOpened": "2024-10-19T02:06:26.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProdutosController.cs",
-              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\ProdutosController.cs",
-              "RelativeDocumentMoniker": "beautyTechAPI\\Controllers\\ProdutosController.cs",
-              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Controllers\\ProdutosController.cs",
-              "RelativeToolTip": "beautyTechAPI\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAcwG4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "beautyTechAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:59:30.454Z"
+              "WhenOpened": "2024-10-19T02:04:36.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240913010944_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Migrations\\20240913010944_InitialCreate.cs",
+              "RelativeDocumentMoniker": "beautyTechAPI\\Migrations\\20240913010944_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\Migrations\\20240913010944_InitialCreate.cs",
+              "RelativeToolTip": "beautyTechAPI\\Migrations\\20240913010944_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:32:06.952Z",
+              "EditorCaption": ""
             }
           ]
         }

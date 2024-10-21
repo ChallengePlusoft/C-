@@ -2,11 +2,13 @@
 using Microsoft.EntityFrameworkCore;
 using beautyTechAPI.Data;
 using beautyTechAPI.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace beautyTechAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ClientesController : Controller
     {
         private readonly AppDbContext _context;
@@ -76,7 +78,14 @@ namespace beautyTechAPI.Controllers
                 return BadRequest(ModelState);
             }
 
-    
+            // Obter o último ID_CLIENTE cadastrado
+            var ultimoCliente = await _context.Clientes
+                .OrderByDescending(c => c.ID_CLIENTE)
+                .FirstOrDefaultAsync();
+
+            // Definir o ID_CLIENTE como o último ID mais um, ou 1 se não houver nenhum registro
+            cliente.ID_CLIENTE = (ultimoCliente?.ID_CLIENTE ?? 0) + 1;
+
             _context.Clientes.Add(cliente);
             await _context.SaveChangesAsync();
 

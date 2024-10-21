@@ -31,12 +31,21 @@ namespace beautyTech.Controllers
         {
             if (ModelState.IsValid)
             {
+                // Obter o último produto cadastrado
+                var ultimoProduto = _context.Produto
+                    .OrderByDescending(p => p.ID_PRODUTO)
+                    .FirstOrDefault();
+
+                // Definir o ID_PRODUTO como o último ID mais um, ou 1 se não houver nenhum registro
+                newProduto.ID_PRODUTO = (ultimoProduto?.ID_PRODUTO ?? 0) + 1;
+
                 _context.Produto.Add(newProduto);
                 _context.SaveChanges();
                 return RedirectToAction("Index");
             }
             return View(newProduto);
         }
+
 
         public IActionResult Edit(int ID)
         {

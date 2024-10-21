@@ -32,12 +32,21 @@ namespace beutyTech.Controllers
         {
             if (ModelState.IsValid)
             {
+                // Obter a última empresa cadastrada
+                var ultimaEmpresa = _context.Empresa
+                    .OrderByDescending(e => e.ID_EMPRESA)
+                    .FirstOrDefault();
+
+                // Definir o ID_EMPRESA como o último ID mais um, ou 1 se não houver nenhum registro
+                newEmpresa.ID_EMPRESA = (ultimaEmpresa?.ID_EMPRESA ?? 0) + 1;
+
                 _context.Empresa.Add(newEmpresa);
                 _context.SaveChanges();
                 return RedirectToAction("Index");
             }
             return View(newEmpresa);
         }
+
 
         public IActionResult Edit(int ID)
         {

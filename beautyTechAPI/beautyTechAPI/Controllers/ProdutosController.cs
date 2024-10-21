@@ -2,11 +2,13 @@
 using Microsoft.EntityFrameworkCore;
 using beautyTechAPI.Data;
 using beautyTechAPI.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace beautyTechAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ProdutosController : Controller
     {
         private readonly AppDbContext _context;
