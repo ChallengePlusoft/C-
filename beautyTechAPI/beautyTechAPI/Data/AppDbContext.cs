@@ -13,6 +13,8 @@ namespace beautyTechAPI.Data
 
         public DbSet<Cliente> Clientes { get; set; }
 
+        public DbSet<HistoricoPesquisa> HistoricoPesquisa { get; set; }
+
 
 
     }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTech\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18D5FD42-C9E1-4745-B38F-7752708431D1}|beautyTech\\beautyTech.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytech\\beautytech\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D5FD42-C9E1-4745-B38F-7752708431D1}|beautyTech\\beautyTech.csproj|solutionrelative:beautytech\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18D5FD42-C9E1-4745-B38F-7752708431D1}|beautyTech\\beautyTech.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytech\\beautytech\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D5FD42-C9E1-4745-B38F-7752708431D1}|beautyTech\\beautyTech.csproj|solutionrelative:beautytech\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18D5FD42-C9E1-4745-B38F-7752708431D1}|beautyTech\\beautyTech.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytech\\beautytech\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D5FD42-C9E1-4745-B38F-7752708431D1}|beautyTech\\beautyTech.csproj|solutionrelative:beautytech\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D5FD42-C9E1-4745-B38F-7752708431D1}|beautyTech\\beautyTech.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytech\\beautytech\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D5FD42-C9E1-4745-B38F-7752708431D1}|beautyTech\\beautyTech.csproj|solutionrelative:beautytech\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18D5FD42-C9E1-4745-B38F-7752708431D1}|beautyTech\\beautyTech.csproj|c:\\users\\kauez\\onedrive\\\u00E1rea de trabalho\\c--main\\beautytech\\beautytech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -99,7 +99,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTech\\beautyTech\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "beautyTech\\Controllers\\ClienteController.cs",
@@ -123,8 +123,7 @@
               "RelativeToolTip": "beautyTech\\Controllers\\ClienteController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAawBwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:02:40.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:02:40.908Z"
             },
             {
               "$type": "Document",
@@ -136,12 +135,11 @@
               "RelativeToolTip": "beautyTech\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T23:15:20.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T23:15:20.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmpresaController.cs",
               "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTech\\beautyTech\\Controllers\\EmpresaController.cs",
               "RelativeDocumentMoniker": "beautyTech\\Controllers\\EmpresaController.cs",
@@ -149,8 +147,7 @@
               "RelativeToolTip": "beautyTech\\Controllers\\EmpresaController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:02:40.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:02:40.911Z"
             },
             {
               "$type": "Document",
@@ -162,25 +159,24 @@
               "RelativeToolTip": "beautyTech\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T23:02:40.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:02:40.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTech\\beautyTech\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "beautyTech\\Models\\Cliente.cs",
               "ToolTip": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTech\\beautyTech\\Models\\Cliente.cs",
               "RelativeToolTip": "beautyTech\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T01:34:44.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Empresa.cs",
               "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTech\\beautyTech\\Models\\Empresa.cs",
               "RelativeDocumentMoniker": "beautyTech\\Models\\Empresa.cs",
@@ -188,12 +184,11 @@
               "RelativeToolTip": "beautyTech\\Models\\Empresa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T01:17:42.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T01:17:42.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTech\\beautyTech\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "beautyTech\\Controllers\\HomeController.cs",
@@ -201,12 +196,11 @@
               "RelativeToolTip": "beautyTech\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAqwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:02:40.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:02:40.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\kauez\\OneDrive\\\u00C1rea de Trabalho\\C--main\\beautyTech\\beautyTech\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "beautyTech\\Controllers\\ProdutoController.cs",
@@ -227,8 +221,7 @@
               "RelativeToolTip": "beautyTech\\Models\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T00:30:57.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T00:30:57.983Z"
             },
             {
               "$type": "Document",
@@ -240,8 +233,7 @@
               "RelativeToolTip": "beautyTech\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-12T23:02:40.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:02:40.914Z"
             },
             {
               "$type": "Document",
@@ -253,8 +245,7 @@
               "RelativeToolTip": "beautyTech\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:02:40.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:02:40.918Z"
             },
             {
               "$type": "Document",
@@ -266,8 +257,7 @@
               "RelativeToolTip": "beautyTech\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:02:40.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:02:40.92Z"
             },
             {
               "$type": "Document",
@@ -315,8 +305,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAOYSAAAAAAAAAAAEwPgSAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-10-21T00:56:02.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T00:56:02.618Z"
             },
             {
               "$type": "Document",

@@ -30,6 +30,10 @@ namespace beautyTechAPI.Migrations
 
                     OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID_CLIENTE"));
 
+                    b.Property<string>("CABELO_CLIENTE")
+                        .IsRequired()
+                        .HasColumnType("NVARCHAR2(2000)");
+
                     b.Property<string>("CPF_CLIENTE")
                         .IsRequired()
                         .HasColumnType("NVARCHAR2(2000)");
@@ -49,6 +53,10 @@ namespace beautyTechAPI.Migrations
                         .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("NM_CLIENTE")
+                        .IsRequired()
+                        .HasColumnType("NVARCHAR2(2000)");
+
+                    b.Property<string>("PELE_CLIENTE")
                         .IsRequired()
                         .HasColumnType("NVARCHAR2(2000)");
 
@@ -82,6 +90,29 @@ namespace beautyTechAPI.Migrations
                     b.ToTable("BT_K_EMPRESA");
                 });
 
+            modelBuilder.Entity("beautyTechAPI.Models.HistoricoPesquisa", b =>
+                {
+                    b.Property<int>("ID_HISTORICO")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("NUMBER(10)");
+
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID_HISTORICO"));
+
+                    b.Property<int>("ID_CLIENTE")
+                        .HasColumnType("NUMBER(10)");
+
+                    b.Property<int>("ID_PRODUTO")
+                        .HasColumnType("NUMBER(10)");
+
+                    b.HasKey("ID_HISTORICO");
+
+                    b.HasIndex("ID_CLIENTE");
+
+                    b.HasIndex("ID_PRODUTO");
+
+                    b.ToTable("BT_K_HISTORICO_PESQUISA");
+                });
+
             modelBuilder.Entity("beautyTechAPI.Models.Produto", b =>
                 {
                     b.Property<int>("ID_PRODUTO")
@@ -113,6 +144,25 @@ namespace beautyTechAPI.Migrations
                     b.HasKey("ID_PRODUTO");
 
                     b.ToTable("BT_K_PRODUTO");
+                });
+
+            modelBuilder.Entity("beautyTechAPI.Models.HistoricoPesquisa", b =>
+                {
+                    b.HasOne("beautyTechAPI.Models.Cliente", "Cliente")
+                        .WithMany()
+                        .HasForeignKey("ID_CLIENTE")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("beautyTechAPI.Models.Produto", "Produto")
+                        .WithMany()
+                        .HasForeignKey("ID_PRODUTO")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Cliente");
+
+                    b.Navigation("Produto");
                 });
 #pragma warning restore 612, 618
         }

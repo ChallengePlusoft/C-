@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "beautyTechAPI.Controllers.API_ML_PREV_PRODUTO",
+    "Method": "Recommend",
+    "RelativePath": "api/API_ML_PREV_PRODUTO/recommend",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clientId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "beautyTechAPI.Controllers.API_ML_PREV_PRODUTO\u002BProdutoOutput",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "beautyTechAPI.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",

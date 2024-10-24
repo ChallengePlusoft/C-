@@ -16,7 +16,6 @@ namespace beautyTechAPI.Models
         [Required]
         public string NM_CLIENTE { get; set; }
 
-   
         [Required]
         public string EMAIL_CLIENTE { get; set; }
 
@@ -29,9 +28,11 @@ namespace beautyTechAPI.Models
         [Required]
         public DateTime DT_CADASTRO { get; set; } = DateTime.Now;
 
+       
+        [Required]
+        public string PELE_CLIENTE { get; set; }
 
-
-
-
+        [Required]
+        public string CABELO_CLIENTE { get; set; } 
     }
 }
