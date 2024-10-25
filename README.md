@@ -18,7 +18,8 @@ Usei a **arquitetura monolítica**, onde todo o sistema é implantado em uma ún
 
 - **Dependency Injection**: As dependências (por exemplo, `AppDbContext`) são injetadas nas classes em vez de serem instanciadas diretamente, promovendo maior flexibilidade e facilidade de manutenção.
 
-- **Projeto de Recomendação de Produtos**:
+## Projeto de Recomendação de Produtos**
+
 Este projeto implementa um sistema de recomendação de produtos com base nas características dos clientes, como tipo de cabelo, pele e estado civil. O código foi desenvolvido com ênfase em Clean Code e nos princípios SOLID, visando garantir uma base sólida, manutenível e escalável.
 
 As práticas de Clean Code foram aplicadas para tornar o código mais legível e compreensível, utilizando nomes significativos, métodos pequenos e focados, evitando duplicação de código e utilizando comentários de forma eficaz. Cada classe foi projetada com uma única responsabilidade, facilitando a manutenção e a compreensão.
