@@ -17,6 +17,16 @@ Usei a **arquitetura monolítica**, onde todo o sistema é implantado em uma ún
 - **Singleton Pattern**: Não está exatamente implícito no código, mas está sendo utilizado pelo Swagger e outros middlewares do ASP.NET Core, pois são serviços que utilizam uma única instância durante todo o ciclo de vida da aplicação.
 
 - **Dependency Injection**: As dependências (por exemplo, `AppDbContext`) são injetadas nas classes em vez de serem instanciadas diretamente, promovendo maior flexibilidade e facilidade de manutenção.
+
+- **Projeto de Recomendação de Produtos**:
+Este projeto implementa um sistema de recomendação de produtos com base nas características dos clientes, como tipo de cabelo, pele e estado civil. O código foi desenvolvido com ênfase em Clean Code e nos princípios SOLID, visando garantir uma base sólida, manutenível e escalável.
+
+As práticas de Clean Code foram aplicadas para tornar o código mais legível e compreensível, utilizando nomes significativos, métodos pequenos e focados, evitando duplicação de código e utilizando comentários de forma eficaz. Cada classe foi projetada com uma única responsabilidade, facilitando a manutenção e a compreensão.
+
+Os princípios SOLID foram seguidos para criar um código modular e flexível. As classes estão abertas para extensão, mas fechadas para modificação, permitindo que novos modelos sejam adicionados sem alterar a lógica existente. As subclasses podem ser usadas de forma intercambiável com suas classes base, e as interfaces específicas foram criadas para garantir que os clientes não dependam de métodos que não utilizam.
+
+O código depende de abstrações, não de implementações concretas, através da injeção de dependência, o que aumenta a flexibilidade e a testabilidade do sistema. Essas abordagens resultam em um código mais legível e de fácil manutenção, melhorando a colaboração em equipe e facilitando a implementação de novas funcionalidades no futuro.
+
 ## Instruções para Rodar a API:
 
 ### Passos para Execução
@@ -30,6 +40,11 @@ Usei a **arquitetura monolítica**, onde todo o sistema é implantado em uma ún
 7. **Teste*: Teste a API da Classe "Empresa", teste todo o CRUD.
 
 ### TESTES SWAGGER
+
+- **POST-ML**
+
+![Post3](imagens-swagger/POST3.png)
+
 - **POST**
 
 ![Post](imagens-swagger/POST.png)
