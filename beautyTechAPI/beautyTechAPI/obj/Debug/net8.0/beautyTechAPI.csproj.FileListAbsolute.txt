@@ -146,3 +146,9 @@ C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bi
 C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
 C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
 C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\beautyTechAPI.staticwebassets.runtime.json
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\Microsoft.ML.FastTree.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\kauez\OneDrive\Área de Trabalho\C--main\beautyTechAPI\beautyTechAPI\bin\Debug\net8.0\runtimes\win-x86\native\FastTreeNative.dll

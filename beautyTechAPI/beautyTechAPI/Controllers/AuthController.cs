@@ -28,8 +28,6 @@ namespace beautyTechAPI.Controllers
                 return BadRequest("Nome de usuário e senha são obrigatórios.");
             }
 
-            // Aqui, você deve validar o usuário (por exemplo, consultando um banco de dados)
-            // Para simplicidade, vou validar se o nome de usuário é 'usuario' e a senha é 'senha123'
             if (login.Username == "usuario" && login.Password == "senha123")
             {
                 var token = _tokenService.GenerateToken(login.Username);

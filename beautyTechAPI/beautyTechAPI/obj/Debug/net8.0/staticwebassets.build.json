@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "Lgr8zTpuOoCIwVMWexSd8AzzYXyPk20MFIqSsP9M0cE=",
+  "Hash": "9o3eVCeBVxSE9bFa7h7EGNHQX6A8XLTDimDJCxVaMgI=",
   "Source": "beautyTechAPI",
   "BasePath": "_content/beautyTechAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "beautyTechAPI\\wwwroot",
+      "Source": "beautyTechAPI",
+      "ContentRoot": "C:\\Users\\kauez\\OneDrive\\Área de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\wwwroot\\",
+      "BasePath": "_content/beautyTechAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kauez\\OneDrive\\Área de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\wwwroot\\MLModels\\ModeloProduto.zip",
+      "SourceId": "beautyTechAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kauez\\OneDrive\\Área de Trabalho\\C--main\\beautyTechAPI\\beautyTechAPI\\wwwroot\\",
+      "BasePath": "_content/beautyTechAPI",
+      "RelativePath": "MLModels/ModeloProduto.zip",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MLModels\\ModeloProduto.zip"
+    }
+  ]
 }
